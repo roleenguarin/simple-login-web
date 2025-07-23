@@ -1,3 +1,3 @@
 # readme
 
-simple login java web application created for a uni project. created in pair with a classmate:)
+simple login java web application created for a uni project. created as pair work with a classmate:)
